@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/dstarrtrey/liri-node-app#readme",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0"
   },
   "devDependencies": {}
 }
