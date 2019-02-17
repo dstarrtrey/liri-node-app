@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Node app that retrieves movie, song, and band data",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstarrtrey/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstarrtrey/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/dstarrtrey/liri-node-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {}
+}
