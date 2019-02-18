@@ -1,7 +1,10 @@
 # liri-node-app
 Node app that retrieves movie, song, and band data using Axios
 
-## Usage
+## Usage  
+
+**BEFORE BEGINNING** you will have to save your own Spotify API credentials into a .env file.  
+
 This app allows you to search any movie using the OMDb APIand retrieve information. for example, to find out about **Blade Runner 2049** you would simply enter:   
 ```node liri movie-this "Blade Runner 2049"```
 
