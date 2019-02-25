@@ -1,4 +1,5 @@
-# liri-node-app
+# LIRI
+## Language Interpretation and Recognition Interface
 Node app that retrieves movie, song, and band data using Axios
 
 ## Usage  
